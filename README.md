@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blockchain<br>👯 I’m looking to collaborate on Web Projects<br>🤝 I’m looking for help with Ethereum/Solidity<br>🌱 I’m currently learning Solidity<br>💬 Ask me about Front end Web development<br><br><br>
+👯 I’m looking to collaborate on Web Projects<br>🤝 I’m looking for help with Ethereum/Solidity/Nodejs <br>🌱 I’m currently learning Solidity/Nodejs<br>💬 Ask me about Front end Web development<br><br><br>
 [![](https://visitcount.itsvg.in/api?id=walishahidadnan&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
 ## 🌐 Socials:
