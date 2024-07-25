@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Web Projects<br>🤝 I’m looking for help with Electronjs / Solidity/ Nodejs / Blockchain <br>🌱 I’m currently learning Solidity / Nodejs / Electronjs <br>💬 Ask me about FrontEnd Web development<br><br><br>
+👯 I’m looking to collaborate on Web Projects<br>🤝 I’m looking for help with Electronjs / Solidity/ Nodejs / Nest.js <br>🌱 I’m currently learning Solidity / Nodejs / Electronjs <br>💬 Ask me about FrontEnd Web development<br><br><br>
 [![](https://visitcount.itsvg.in/api?id=walishahidadnan&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
 
