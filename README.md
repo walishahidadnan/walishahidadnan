@@ -1,5 +1,5 @@
 
-I am a Front-end developer with over 4 years of experience in javaScript React Next.js TypeSript and many more. I worked with over 50+ clients and more than 10+ companies as a freelancer.
+I am a Front-end developer with over 4 years of experience in JavaScript, React, Next.js, TypeScript, and many more. I worked with over 50+ clients and more than 10+ companies as a freelancer.
 
   
 # 💫 About Me:
@@ -17,3 +17,4 @@ I am a Front-end developer with over 4 years of experience in javaScript React N
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=walishahidadnan&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+# KK_SHAHID
