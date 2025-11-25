@@ -1,4 +1,3 @@
-
 I am a Front-end developer with over 4 years of experience in JavaScript, React, Next.js, TypeScript, and many more. I worked with over 50+ clients and more than 10+ companies as a freelancer.
 
   
@@ -16,5 +15,3 @@ I am a Front-end developer with over 4 years of experience in JavaScript, React,
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=walishahidadnan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=walishahidadnan&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-# KK_SHAHID
