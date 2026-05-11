@@ -1,6 +1,8 @@
 I am a Front-end developer with over 4 years of experience in JavaScript, React, Next.js, TypeScript, and many more. I worked with over 50+ clients and more than 10+ companies as a freelancer.
-Creator of https://devtoolhub.site
-Creator of https://www.simplecounter.net/
+Owner and Developer of:
+   - https://www.simplecounter.net
+   - https://devtoolhub.site
+   - https://clausekit.app
 
   
 # 💫 About Me:
