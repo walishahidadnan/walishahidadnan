@@ -4,6 +4,7 @@ Owner and Developer of:
    - https://devtoolhub.site
    - https://clausekit.app
    - https://freecoinflipper.com
+   - https://fuelconsumptioncalculator.net
 
   
 # 💫 About Me:
