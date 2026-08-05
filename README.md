@@ -1,4 +1,6 @@
 I am a Front-end developer with over 4 years of experience in JavaScript, React, Next.js, TypeScript, and many more. I worked with over 50+ clients and more than 10+ companies as a freelancer.
+My Site: 
+https://shahidadnanwali.com
 Owner and Developer of:
    - https://www.simplecounter.net
    - https://devtoolhub.site
