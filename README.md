@@ -1,4 +1,6 @@
-I am a Front-end developer with over 4 years of experience in JavaScript, React, Next.js, TypeScript, and many more. I worked with over 50+ clients and more than 10+ companies as a freelancer.
+Shahid Adnan Wali
+Frontend Engineer | React.js | Next.js | TypeScript <br />
+I build production web applications and complex user interfaces using React and Next.js, with experience in APIs, Node.js, PostgreSQL and technical SEO. <br />
 My Site: 
 https://shahidadnanwali.com
 Owner and Developer of:
