@@ -1,5 +1,5 @@
 # Shahid Adnan Wali <br />
-# Frontend Engineer / Full-Stack Web Developer with strong React/Next.js expertise and practical backend experience. <br />
+Frontend Engineer / Full-Stack Web Developer with strong React/Next.js expertise and practical backend experience. <br />
 I build production web applications and complex user interfaces using React and Next.js, with experience in APIs, Node.js, PostgreSQL and technical SEO. <br />
 My Site: 
 https://shahidadnanwali.com <br />
