@@ -1,8 +1,8 @@
-Shahid Adnan Wali
+# Shahid Adnan Wali <br />
 Frontend Engineer | React.js | Next.js | TypeScript <br />
 I build production web applications and complex user interfaces using React and Next.js, with experience in APIs, Node.js, PostgreSQL and technical SEO. <br />
 My Site: 
-https://shahidadnanwali.com
+https://shahidadnanwali.com <br />
 Owner and Developer of:
    - https://www.simplecounter.net
    - https://devtoolhub.site
